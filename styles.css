@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    text-decoration: mediumslateblue;
+    text-underline-position: below;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.body {
+    background-color:rgb(226, 186, 176);
+    color: white;
+    background-image: url(pink-clouds.jpg);
+}
+
+.contact-info {
+    background-color: rgb(110, 230, 235);
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(110, 230, 235);
+    color: white;
+  }
